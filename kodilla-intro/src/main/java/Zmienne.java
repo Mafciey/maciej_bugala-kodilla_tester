@@ -1,5 +1,4 @@
-public class Zmienne
-{
+public class Zmienne {
     public static void main(String[] args) {
         String myName = "Maciej";
         int myAge = 22;
