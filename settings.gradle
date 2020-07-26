@@ -3,4 +3,7 @@ include 'kodilla-intro'
 include 'kodilla-intro'
 include 'Exercise 2.4'
 include 'Exercise 2.4'
+include 'kodilla-basic-tests'
+include 'kodilla-basic-tests'
+include 'kodilla-basic-tests'
 

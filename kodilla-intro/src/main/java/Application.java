@@ -3,6 +3,7 @@ public class Application {
         Adam adam = new Adam("Adam", 13, 123);
 
         verifyUserParemeters(adam);
+
     }
 
     private static void verifyUserParemeters(Adam adam) {
@@ -14,4 +15,5 @@ public class Application {
             }
         }
     }
+
 }

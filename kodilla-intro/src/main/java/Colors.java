@@ -18,9 +18,9 @@ public class Colors {
             }
         }
     }
-    public String color(){
+    public static String color(){
         String userSelectedColor = Colors.getUserColor();
-        String result;
+                String result;
         switch (userSelectedColor){
             case "B" :
                 result = "Blue";
@@ -38,6 +38,7 @@ public class Colors {
         }
         return userSelectedColor;
     }
+
     public static void main(String[] args) {
         Colors colorSelected = new Colors();
         String result = colorSelected.color();
